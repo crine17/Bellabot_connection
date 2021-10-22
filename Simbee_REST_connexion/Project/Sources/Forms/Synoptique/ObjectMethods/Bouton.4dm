@@ -1,1 +1,0 @@
-GET_All_Device
