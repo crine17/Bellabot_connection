@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><preferences stamp="2">
+	<com.4d>
+		<database>
+			<cache flush_buffer_delay="20s"/>
+		</database>
+		<server>
+			<network>
+				<options publication_name="Simbee_REST_connexion"/>
+			</network>
+			<ip_config>
+				<allow_deny_table>
+					<allow_deny address="" allow="true"/>
+					<allow_deny address="*" allow="true"/>
+				</allow_deny_table>
+			</ip_config>
+		</server>
+		<compiler>
+			<options compilation_path="2" error_file="true" symbol_file="true"/>
+		</compiler>
+		<web>
+			<remote>
+				<configuration port_number="80"/>
+			</remote>
+		</web>
+	</com.4d>
+</preferences>

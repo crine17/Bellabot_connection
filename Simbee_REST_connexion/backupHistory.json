@@ -1,0 +1,54 @@
+{
+	"C:\\Users\\Simbee\\Documents\\Simbee_Bellabot_REST_connection_test\\Simbee_REST_connexion\\Project\\Simbee_REST_connexion.4DProject": [
+		{
+			"backupPath": "C:\\Users\\Simbee\\Documents\\Simbee_Bellabot_REST_connection_test\\Simbee_REST_connexion\\data[0001].4BK",
+			"structurePath": "C:\\Users\\Simbee\\Documents\\Simbee_Bellabot_REST_connection_test\\Simbee_REST_connexion\\Project\\Simbee_REST_connexion.4DProject",
+			"dataPath": "C:\\Users\\Simbee\\Documents\\Simbee_Bellabot_REST_connection_test\\Simbee_REST_connexion\\Data\\data.4DD",
+			"logPath": "C:\\Users\\Simbee\\Documents\\Simbee_Bellabot_REST_connection_test\\Simbee_REST_connexion\\data[0000].4BL",
+			"startingDate": "2021-10-22T07:51:46.352Z",
+			"endingDate": "2021-10-22T07:51:46.352Z",
+			"scheduledDate": "2021-10-22T07:51:46.352Z",
+			"backupNumber": 1,
+			"duration": 31,
+			"attachments": [
+				{
+					"attachmentPath": "C:\\Users\\Simbee\\Documents\\Simbee_Bellabot_REST_connection_test\\Simbee_REST_connexion\\Data\\data.4DSyncHeader",
+					"found": false
+				},
+				{
+					"attachmentPath": "C:\\Users\\Simbee\\Documents\\Simbee_Bellabot_REST_connection_test\\Simbee_REST_connexion\\Data\\data.4DSyncData",
+					"found": false
+				},
+				{
+					"attachmentPath": "C:\\Users\\Simbee\\Documents\\Simbee_Bellabot_REST_connection_test\\Simbee_REST_connexion\\Data\\data.4DIndx",
+					"found": false
+				}
+			]
+		},
+		{
+			"backupPath": "C:\\Users\\Simbee\\Documents\\Simbee_Bellabot_REST_connection_test\\Simbee_REST_connexion\\data[0002].4BK",
+			"structurePath": "C:\\Users\\Simbee\\Documents\\Simbee_Bellabot_REST_connection_test\\Simbee_REST_connexion\\Project\\Simbee_REST_connexion.4DProject",
+			"dataPath": "C:\\Users\\Simbee\\Documents\\Simbee_Bellabot_REST_connection_test\\Simbee_REST_connexion\\Data\\data.4DD",
+			"logPath": "",
+			"startingDate": "2021-10-22T08:00:08.046Z",
+			"endingDate": "2021-10-22T08:00:08.046Z",
+			"scheduledDate": "2021-10-22T08:00:08.046Z",
+			"backupNumber": 2,
+			"duration": 121,
+			"attachments": [
+				{
+					"attachmentPath": "C:\\Users\\Simbee\\Documents\\Simbee_Bellabot_REST_connection_test\\Simbee_REST_connexion\\Data\\data.4DSyncHeader",
+					"found": false
+				},
+				{
+					"attachmentPath": "C:\\Users\\Simbee\\Documents\\Simbee_Bellabot_REST_connection_test\\Simbee_REST_connexion\\Data\\data.4DSyncData",
+					"found": false
+				},
+				{
+					"attachmentPath": "C:\\Users\\Simbee\\Documents\\Simbee_Bellabot_REST_connection_test\\Simbee_REST_connexion\\Data\\data.4DIndx",
+					"found": false
+				}
+			]
+		}
+	]
+}

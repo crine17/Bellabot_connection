@@ -1,0 +1,61 @@
+[
+	{
+		"line": 6,
+		"method": {
+			"type": 1,
+			"methodName": "GET_All_Device"
+		}
+	},
+	{
+		"line": 10,
+		"method": {
+			"type": 1,
+			"methodName": "GET_All_Device"
+		}
+	},
+	{
+		"line": 10,
+		"method": {
+			"type": 2,
+			"formName": "Synoptique",
+			"objectName": "Bouton2",
+			"methodPath": "/SOURCES/Forms/Synoptique/ObjectMethods/Bouton2.4dm"
+		}
+	},
+	{
+		"line": 11,
+		"method": {
+			"type": 2,
+			"formName": "Synoptique",
+			"objectName": "Bouton1",
+			"methodPath": "/SOURCES/Forms/Synoptique/ObjectMethods/Bouton1.4dm"
+		}
+	},
+	{
+		"line": 5,
+		"method": {
+			"type": 2,
+			"formName": "Synoptique",
+			"objectName": "Bouton1",
+			"methodPath": "/SOURCES/Forms/Synoptique/ObjectMethods/Bouton1.4dm"
+		}
+	},
+	{
+		"line": 2,
+		"method": {
+			"type": 2,
+			"formName": "Synoptique",
+			"objectName": "Popup Liste déroulante",
+			"methodPath": "/SOURCES/Forms/Synoptique/ObjectMethods/Popup Liste déroulante.4dm"
+		}
+	},
+	{
+		"line": 2,
+		"method": {
+			"type": 2,
+			"formName": "Synoptique",
+			"objectName": "Bouton4",
+			"methodPath": "/SOURCES/Forms/Synoptique/ObjectMethods/Bouton4.4dm"
+		}
+	}
+]
